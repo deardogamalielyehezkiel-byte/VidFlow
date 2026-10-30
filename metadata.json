@@ -1,0 +1,6 @@
+{
+  "name": "VidFlow",
+  "description": "Production-grade PWA video streaming, Shorts, live broadcasting, following, subscriptions, and direct community tipping platform.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
